@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorNavIcon">#dae9f6</color>
+    <color name="colorNavText">#01294b</color>
+
+    <color name="saturday_off">#ED818E</color>
+    <color name="on_duty">#A6B6FE</color>
+    <color name="c_off_Availing">#A8CFFC</color>
+    <color name="c_off_working_Req">#E5FFC9</color>
+    <color name="LTA">#979797</color>
+    <color name="soft_n_hard">#84D6FF</color>
+    <color name="button_color">#4A90EA</color>
+    <color name="black">#000</color>
+    <color name="Leave_Request">#A6FEEA</color>
+    <color name="Permission">#FFC28C</color>
+
+    <color name="Voilet_Color_code">#4C2AEB</color>
+    <color name="Light_header_voilet">#E7EEFC</color>
+    <color name="Accept">#2ED573</color>
+    <color name="Decline">#979797</color>
+    <color name="textLab_ques">#FFC28C</color>
+    <color name="textLab_Ans">#4A4A4A</color>
+
+    <color name="white">#fff</color>
+</resources>
