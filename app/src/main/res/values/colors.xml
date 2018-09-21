@@ -1,8 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#00A6A4</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#3b96d7</color>
+
+    <color name="field">#5B5A5A</color>
+    <color name="pro">#FC8E3A</color>
+    <color name="service">#00A6A4</color>
+    <color name="BG_Color">#F0F6F6</color>
+    <color name="punchin">#2582bc</color>
+    <color name="punchout">#808080</color>
+
+    <color name="indigo">#808080</color>
+    <color name="pink">#808080</color>
+    <color name="grey">#808080</color>
+
+    <color name="skybee">#d8edf9</color>
+
+    <color name="white">#fff</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <color name="last_grey_color_code">#E5E5E5</color>
+    <color name="last_green_color_button">#53CBB5</color>
+    <color name="last_blue_bandcolor">#4A90E2</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <color name="transparent">#00fdfdfd</color>
+    <color name="transparent_light">#6ce9453c</color>
+
+    <array name="array_dot_active">
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/punchout</item>
+        <item>@color/punchout</item>
+        <item>@color/punchout</item>
+        <item>@color/punchout</item>
+    </array>
+
+    //Color Swatches provided by http://designmodo.github.io/Flat-UI/
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_clouds">#ecf0f1</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
 
     <color name="colorNavIcon">#dae9f6</color>
     <color name="colorNavText">#01294b</color>
@@ -24,6 +100,7 @@
     <color name="Decline">#979797</color>
     <color name="textLab_ques">#FFC28C</color>
     <color name="textLab_Ans">#4A4A4A</color>
+    <color name="ash">#e5e5e5</color>
 
-    <color name="white">#fff</color>
+    <color name="white_">#fff</color>
 </resources>

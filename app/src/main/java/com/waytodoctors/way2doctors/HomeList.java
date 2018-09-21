@@ -1,19 +1,16 @@
 package com.waytodoctors.way2doctors;
 
-/**
- * Created by new on 15/3/17.
- */
+public class HomeList {
 
-public class HomeItem {
 
     private String name;
     private int image;
 
 
-    public HomeItem() {
+    public HomeList() {
     }
 
-    public HomeItem(String name , int image) {
+    public HomeList(String name , int image) {
         this.name = name;
         this.image = image;
     }
@@ -33,7 +30,5 @@ public class HomeItem {
     public void setImage(int image) {
         this.image = image;
     }
-
-
 
 }

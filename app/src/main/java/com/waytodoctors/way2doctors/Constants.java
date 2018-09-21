@@ -26,7 +26,7 @@ public class Constants {
     }
 
     public static Typeface getTxtType(Context ctx){
-        return Typeface.createFromAsset(ctx.getAssets(),"san_frediano.ttf");
+        return Typeface.createFromAsset(ctx.getAssets(),"Verdana.ttf");
     }
 
 }
